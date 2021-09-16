@@ -125,7 +125,7 @@ def _help(client, message):
         except Exception:
             client.send_message(
                 chat_id=message.chat.id,
-                text="Hey use this command in my pm. \n About My Working Setup Is In My About & Description 🆙.",
+                text="Hey use this command in my pm😐. \n About My Working Setup Is In My About & Description 🆙.",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
