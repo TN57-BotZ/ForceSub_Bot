@@ -59,7 +59,7 @@ def _check_member(client, message):
              reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Subscribe My Channel", url=channel_url)
+                    InlineKeyboardButton("Join @TN57_BotZ.Then Click👇", url=channel_url)
                 ],
                 [
                     InlineKeyboardButton("UnMute Me", callback_data="onUnMuteRequest")
