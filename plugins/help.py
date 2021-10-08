@@ -46,7 +46,7 @@ def _start(client, message):
                            InlineKeyboardButton("Support Group", url="https://t.me/TN57_BotzSupport")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TN57_BotZDC4")
+                           InlineKeyboardButton("Our BotZ", url="https://t.me/TN57_BotZ/14")
                      ]
                  ]
              ),
@@ -63,7 +63,7 @@ def _start(client, message):
                     InlineKeyboardButton("Support Group", url="https://t.me/TN57_BotzSupport")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TN57_BoTZDC4")
+                    InlineKeyboardButton("Our BotZ", url="https://t.me/TN57_BotZ/14")
                 ]
             ]
         ),
@@ -79,14 +79,14 @@ def _source_code(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Leech Zone", url="https://t.me/TN57_Leech")
+                    InlineKeyboardButton("Leech & Mirror Zone", url="https://t.me/TN57_LEECH_AND_MIRROR_ZONE/2")
                 ],
                 [
                     InlineKeyboardButton("Join Updates Channel", url="https://t.me/TN57_BotZ"),
                     InlineKeyboardButton("Support Group", url="https://t.me/TN57_BotzSupport")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TN57_BotZDC4")
+                    InlineKeyboardButton("Our BotZ", url="https://t.me/TN57_BotZ/14")
                 ]
             ]
         ),
